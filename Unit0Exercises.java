@@ -13,7 +13,7 @@ public class Unit0Exercises {
         System.out.println("Name\tInitial Value");
         System.out.println("Score: " + score);
         System.out.println("Price: " + price);
-        System.out.println("Boolean: " + isPassing);
+        System.out.println("Passing: " + isPassing);
         System.out.println("Letter: " + letter);
         System.out.println("Population: " + population);
         System.out.println("Tax Rate: " + TAX_RATE);
@@ -35,7 +35,7 @@ public class Unit0Exercises {
         System.out.println("\nName\tInitial Value");
         System.out.println("Score: " + score);
         System.out.println("Price: " + price);
-        System.out.println("Is Passing: " + isPassing);
+        System.out.println("Passing: " + isPassing);
         System.out.println("Letter: " + letter);
         System.out.println("Population: " + population);
         System.out.println("Tax Rate: " + TAX_RATE);
