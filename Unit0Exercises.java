@@ -26,7 +26,7 @@ public class Unit0Exercises {
 
         score += 5;
         price += 2.50;
-        isPassing = false;
+        isPassing = true;
         letter = 'A';
         population = 8000000000L;
 
